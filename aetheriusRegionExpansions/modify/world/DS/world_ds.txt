@@ -1,0 +1,17 @@
+{aetherius.moddedcreaturesspawns}[FIND]DS_A01 : 1-WaterBlob-3, 2-WaterBlob-3
+{aetherius.moddedcreaturesspawns}[REPLACE]DS_A01 : 2-WaterBlob-3, 3-WaterBlob-3
+
+[MERGE]
+
+ROOMS
+
+
+
+DS_A01 : DS_A06, DS_AETH : SWARMROOM
+DS_AETH : DISCONNECTED, DISCONNECTED, DS_A01
+
+
+
+END ROOMS
+
+[ENDMERGE]
